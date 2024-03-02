@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab01</string>
+    <string name="but_add">+</string>
+    <string name="but_mul">*</string>
+    <string name="but_sub">/</string>
+    <string name="but_div">-</string>
+    <string name="firs_num">a:</string>
+    <string name="sec_num">b:</string>
+    <string name="res">res:</string>
+    <string name="input1">b:</string>
+    <string name="result">...</string>
+</resources>
